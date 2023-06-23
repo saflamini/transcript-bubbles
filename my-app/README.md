@@ -4,6 +4,7 @@
 2. Create a transcript, get the json response, and add it to the `./components` directory with the name `transcriptData.json`
 3. Pass the path to your audio file as a prop to the `TranscriptBlock` component
 
+## How it should look
 <img src="my-app/public/Recording 2023-06-23 at 15.10.22.gif" width="40" height="40" />
 
 
