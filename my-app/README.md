@@ -5,7 +5,7 @@
 3. Pass the path to your audio file as a prop to the `TranscriptBlock` component
 
 ## How it should look
-![Example](./public/Recording 2023-06-23 at 15.10.22.gif)
+![Example](./public/Recording%202023-06-23%20at%2015.10.22.gif)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -17,8 +17,7 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
-# or
+yarn dev or
 pnpm dev
 ```
 
