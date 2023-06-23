@@ -1,8 +1,8 @@
 # Displaying Transcripts with Audio Files
 
-Step 1) Add your own audio file to the `/public` directory
-Step 2) Create a transcript, get the json response, and add it to the `./components` directory with the name `transcriptData.json`
-Step 3) Pass the path to your audio file as a prop to the `TranscriptBlock` component
+1. Add your own audio file to the `/public` directory
+2. Create a transcript, get the json response, and add it to the `./components` directory with the name `transcriptData.json`
+3. Pass the path to your audio file as a prop to the `TranscriptBlock` component
 
 <img src="my-app/public/Recording 2023-06-23 at 15.10.22.gif" width="40" height="40" />
 
